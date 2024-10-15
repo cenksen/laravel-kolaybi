@@ -1,5 +1,5 @@
 {
-  "name": "cenksen/kolaybi",
+  "name": "cenksen/laravel-kolaybi",
   "description": "KolayBi API for Laravel",
   "type": "library",
   "license": "MIT",
