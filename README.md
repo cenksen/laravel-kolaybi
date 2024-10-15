@@ -7,7 +7,7 @@ A Laravel package for integrating with the KolayBi API.
 You can install the package via composer:
 
 ```bash
-composer require cenksen/kolaybi
+composer require cenksen/laravel-kolaybi
 ```
 ### Configuration
 After installing, you can publish the configuration file:
