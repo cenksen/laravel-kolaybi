@@ -110,7 +110,7 @@ public function createInvoiceProceed()
         ];
         
         
-        $response = KolayBi::createInvoice($proceedData);
+        $response = KolayBi::createInvoiceProceed($proceedData);
         return response()->json($response);
 }
 ```
